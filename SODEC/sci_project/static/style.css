@@ -1,5 +1,4 @@
 .full-body{
-    width:100kv;
-    height: 100kv;
-    background: #ff00ff;
+    height: 100% !important;
+    background: #ff00ff !important;
 }

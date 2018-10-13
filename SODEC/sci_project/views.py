@@ -10,7 +10,7 @@ def index(request):
     template = 'registration/login.html'
     return render(request, template)
 
-
+ 
 def register(request):
     template = 'registration/register.html'
     if request.method == "POST":
