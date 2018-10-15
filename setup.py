@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-NAME = 'django authentication system'
+NAME = 'django-auth-sys'
 DESCRIPTION = 'This system enables users to register, login and logout of the system'
 AUTHOR = 'dickens odera'
 AUTHOR_EMAIL = 'dickensodera9@gmal.com'
