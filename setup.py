@@ -12,7 +12,7 @@ setup(
     author = AUTHOR,
     email = AUTHOR_EMAIL,
     url = PROJECT_URL,
-    version = '1.0.1',
+    version = "0.0.1",
     packages = find_packages()
     
 )
